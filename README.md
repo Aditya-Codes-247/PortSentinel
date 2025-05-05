@@ -1,4 +1,4 @@
-# PortSentinel-PPO: Reinforcement Learning for Network Port Security
+# PortSentinel: Reinforcement Learning for Network Port Security
 
 ## Project Overview
 
